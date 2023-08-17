@@ -10,3 +10,5 @@ CREATE TABLE animals (
      weight_kg          decimal(10, 2)
 );
 
+ALTER TABLE animals
+ADD COLUMN species VARCHAR(100);
