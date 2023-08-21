@@ -121,6 +121,12 @@ You may use the online version of my work. Here is the link of online version: [
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sazzad3y/)
 
 
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/olanikegloria)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olani/)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
