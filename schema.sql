@@ -59,3 +59,4 @@ CREATE TABLE visits (
     animal_id INT NOT NULL,
     date_of_visit DATE
 );
+
