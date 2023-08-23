@@ -24,6 +24,7 @@ CREATE TABLE invoices(
     id INT GENERATED ALWAYS AS IDENTITY,
     total_amount DECIMAL,
     generated_at TIMESTAMP,
+    payed_at TIMESTAMP,
     medical_history_id INT REFERENCES medical_histories(id),
     PRIMARY KEY(id)
 );
